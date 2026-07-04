@@ -1,0 +1,9 @@
+{
+  "name": "tg-ai-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "type": "commonjs",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
